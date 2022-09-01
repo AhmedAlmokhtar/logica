@@ -1,0 +1,235 @@
+<!DOCTYPE html
+      PUBLIC "-//W3C//DTD HTML 4.01//EN"
+      "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-US">
+<head profile="http://www.w3.org/2005/10/profile">
+<link 
+      href="images/Icon.png" rel="icon" 
+      type="image/png">   
+<html lang="en">
+<script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><style type="text/css">
+<!--
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+-->
+</style>
+<head>
+<title>Home Page | Logica i-Tech</title>
+<meta charset="utf-8">
+<meta name="description" content="Technologies Solutions">
+<meta name="keywords" content="interactive boards,logica tech,smart board, touch screens, magic media, ebeam interacive boards, ebeam edge, ebeam engage, logica egypt, technologies solutions, smart boards,portable interactive boards">
+<meta name="author" content="logica.com - info@logicaboards.com">
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<script type="text/javascript" src="js/jquery-1.4.2.min.js" ></script>
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/cufon-replace.js"></script>
+<script type="text/javascript" src="js/Myriad_Pro_300.font.js"></script>
+<script type="text/javascript" src="js/Myriad_Pro_400.font.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<!--[if lt IE 7]>
+     <link rel="stylesheet" href="css/ie/ie6.css" type="text/css" media="screen">
+     <script type="text/javascript" src="js/ie_png.js"></script>
+     <script type="text/javascript">
+        ie_png.fix('.png, footer, header nav ul li a, .nav-bg, .list li img');
+     </script>
+<![endif]-->
+<!--[if lt IE 9]>
+  	<script type="text/javascript" src="js/html5.js"></script>
+  <![endif]-->
+<style type="text/css">
+<!--
+.style1 {font-size: 24px}
+.style8 {color: #FFFFFF}
+.style9 {font-size: 16%}
+.style10 {font-size: 16px}
+-->
+</style>
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" media="screen" />
+	<style type="text/css">a#vlb{display:none}</style>
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine2/style.css" media="screen" />
+	<style type="text/css">a#vlb{display:none}</style>
+	<script type="text/javascript" src="engine2/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+</head>
+<body id="page1">
+<div class="wrap">
+   <!-- header -->
+   <header>
+      <div class="container">
+         <h1><a href="index.html">Student's site</a></h1>
+         <nav>
+            <ul>
+               <li class="current"><a href="index.html" class="m1">Home Page</a></li>
+               <li><a href="about-us.html" class="m2">About Us</a></li>
+               <li><a href="services.html" class="m3">services</a></li>
+              <li><a href="products.html" class="m4">products</a></li>
+               <li class="last"><a href="contact us.html" class="m5">contact us</a></li>
+           </ul>
+         </nav>
+         <form action="" id="search-form">
+            <fieldset>
+            <div class="rowElem">
+               <input type="text">
+               <a href="#" onClick="document.getElementById('search-form').submit()">Search</a></div>
+            </fieldset>
+         </form>
+      </div>
+</header>
+   <div class="container">
+      <!-- aside -->
+      <aside>
+        <h3>Categories</h3>
+        <ul class="categories">
+          <li><span><a href="interactiveBoards.html">Interactive Boards</a></span></li>
+          <li><span><a href="Magic Media.html">Magic Media </a></span></li>
+          <li><span><a href="Touch Screens/Screens.html">Interactive Screens</a></span></li>
+          <li><span><a href="#">Accessories</a></span></li>
+          <li><span><a href="#">Offers </a></span></li>
+          <li><span><a href="#">Events</a></span></li>
+          <li><span><a href="#">Rent</a></span></li>
+          <li class="last"><span><a href="#">Careers</a></span></li>
+        </ul>
+        <form action="" id="newsletter-form">
+          <fieldset class="style4">
+            <a href="http://www.youtube.com/user/LogicaTechChannel" target="new">Click Here to View Our Videos<br>
+            <br>
+            <a href="http://www.youtube.com/user/LogicaTechChannel" target="new"><img src="images/Tube.gif" width="119" height="83"></a><br>
+            LogicaTechChannel <br>
+          </fieldset>
+        </form>
+        <h2>Fresh <span>News</span></h2>
+        <ul class="news">
+          <li><strong>March  28, 2012</strong>
+              <h4><a href="#">Logica Introduces It's new Large Format Touch Screens </a></h4>
+            <p class="style13">LOGICA Technologies, today introduced Logica Multi Touch Screens, a new  Generation of large format touch screens aimed at Large and Small business who  want to lead using technology and engage clients differently .</p>
+          </li>
+          <li></li>
+          <li><strong>March 10,2012</strong>
+              <h4>eBeam Classic Offer For Education</h4>
+            <span class="style13">Logica Technologies announces an exquisite offer for educators. Now and for a limited time only, our eBeam Classic Interactive Board Starting at <br>
+              <strong>ONLY 5,900 L.E</strong></span></li>
+          <li></li>
+          <li><strong>June 14, 2012</strong>
+              <h4><a href="#">Logica News</a></h4>
+            LogicaLogicaLogicaLogicaLogica<br>
+            LogicaLogicaLogicaLogicaLogica<br>
+            LogicaLogicaLogicaLogica. </li>
+          <li></li>
+        </ul>
+     </aside>
+      <!-- content -->
+<section id="content">
+         <div id="banner">
+           
+
+
+
+<!-- Start WOWSlider.com BODY section id=wowslider-container2 -->
+	<div id="wowslider-container2">
+	<div class="ws_images">
+<a href="#"><img src="data2/images/interactive_boards.jpg" alt="Interactive Boards" title="Interactive Boards" id="wows0"/></a>
+<a href="#"><img src="data2/images/anything_is_possible.jpg" alt="Anything is Possible" title="Anything is Possible" id="wows1"/></a>
+<a href="#"><img src="data2/images/be_one_of_them.jpg" alt="Be ONE Of THEM" title="Be ONE Of THEM" id="wows2"/></a>
+<a href="#"><img src="data2/images/uinque_solutions.jpg" alt="Uinque Solutions" title="Uinque Solutions" id="wows3"/></a>
+</div>
+<div class="ws_bullets"><div>
+<a href="#wows0" title="Interactive Boards"><img src="data2/tooltips/interactive_boards.jpg" alt="Interactive Boards"/>1</a>
+<a href="#wows1" title="Anything is Possible"><img src="data2/tooltips/anything_is_possible.jpg" alt="Anything is Possible"/>2</a>
+<a href="#wows2" title="Be ONE Of THEM"><img src="data2/tooltips/be_one_of_them.jpg" alt="Be ONE Of THEM"/>3</a>
+<a href="#wows3" title="Uinque Solutions"><img src="data2/tooltips/uinque_solutions.jpg" alt="Uinque Solutions"/>4</a>
+</div></div>
+<a style="display:none" href="http://wowslider.com">jQuery Slider Zoom by WOWSlider.com v1.7</a>
+	</div>
+	<script type="text/javascript" src="engine2/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+
+<h2>&nbsp;</h2>
+      </div>
+      <div class="ic">More Website Templates at TemplateMonster.com!</div>
+      <div class="inside">
+            <h2>our <span>proudcts</span></h2>
+            <ul class="list">
+               <li><span><a href="interactiveBoards.html"><img src="images/icon1.png"></a></span>
+                  <h4>eBeam Edge <br>
+                  </h4>
+                  <p>Transform existing classroom whiteboards and walls into interactive teaching spaces with the eBeam Edge for Education,Installation takes minutes and requires no special tools <em><a href="interactiveBoards.html" class="txt1">Read More</a></em><br>
+                      <br>
+                 </p>
+              </li>
+               <li>
+                 <div align="left"><span><a href="interactiveBoards.html"><img src="images/icon2.png"></a></span>                 </div>
+                 <h4 align="left">eBeam Engage<br>
+                 </h4>
+                  <p align="left">interactive whiteboard device combines more than ten multimedia and navigation tools in one sleek console to make lesson delivery effective and fun. <em><a href="interactiveBoards.html" class="txt1">Read More</a> </em></p>
+              </li>
+            <li class="last"><span><a href="Interactive Screens.html"><img src="images/icon3.png"></a></span>
+          <h4>Interactive Screens </h4>
+                  <p>The  Touch Screen is one of the easiest PC interfaces to use, making it the  interface of choice for a wide variety of applications. <a href="Interactive Screens.html" class="txt1"><em>Read More</em></a></p>
+              </li>
+            </ul>
+        <h2>&nbsp;</h2>
+           <h2>Magic media<a href="Magic Media.html"> <span>interactive system</span></a></h2>
+        <p><span class="txt1">Magic Media </span>  is a colorful, projected animated floor. For it to move, you must move. Magic Media Advertising is a total new medium to advertise indoors and outdoors. Imagine a Brand advertisement on the street, when the audience walk over it - It starts popping .</p>
+        <table width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <th width="31%" height="328" scope="row"><div align="left"><a href="Magic Media.html"><img src="images/1page-imgMagic.jpg" width="175" height="106"></a>
+                </div>
+                  <table width="100%" border="1" align="left" cellpadding="1" cellspacing="1" bordercolor="#008CC4" class="rowElem">
+                  <tr bordercolor="#333333"></tr>
+                </table></th>
+                <td width="69%"><p>Magic Media provides a new approach to finding your way around a shopping centre. A map of the centre is projected on the floor allowing users to interact. Users literally stand on the store they want more information about and see store details, current promotions or advertising. This cost-effective technology makes it all possible. </p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                <table width="437" border="1">
+                  <tr>
+                    <th width="59" scope="row">&nbsp;</th>
+                    <td width="59">&nbsp;</td>
+                    <td width="297"><a href="https://www.facebook.com/LogicaTechnologies?fref=ts" target="new"><img src="images/Facebook-icon (1).png" width="64" height="64"></a> <a href="https://twitter.com/Logica_Tech" target="new"><img src="images/Twitter-2-icon.png" width="64" height="64"></a> <a href="http://www.youtube.com/user/LogicaTechChannel" target="new"><img src="images/YouTube-icon (1).png" width="64" height="64"></a> <img src="images/Linkedin-icon (1).png" width="64" height="64"></td>
+                  </tr>
+                </table></td>
+              </tr>
+        </table>
+         </div>
+     </section>
+  </div>
+</div>
+<!-- footer -->
+<footer>
+   <div class="container">
+      <div class="inside">
+         <div class="wrapper">
+            <div class="fleft">Customer Service Number <span class="style1">+2 02 37612562</span></div>
+           <div class="aligncenter"><br>
+           © Copyright 2012 Logica i-Tech. All Rights Reserved.</div>
+         </div>
+      </div>
+   </div>
+</footer>
+<script type="text/javascript"> Cufon.now(); </script>
+</body>
+</html>

@@ -1,0 +1,244 @@
+<!DOCTYPE html
+      PUBLIC "-//W3C//DTD HTML 4.01//EN"
+      "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-US">
+<head profile="http://www.w3.org/2005/10/profile">
+<link 
+      href="images/Icon.png" rel="icon" 
+      type="image/png">
+<html lang="en">
+<head>
+<title>Interactive Screens | Logica i-Tech</title>
+<meta charset="utf-8">
+<meta name="description" content="Place your description here">
+<meta name="keywords" content="put, your, keyword, here">
+<meta name="author" content="Templates.com - website templates provider">
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<script type="text/javascript" src="js/jquery-1.4.2.min.js" ></script>
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/cufon-replace.js"></script>
+<script type="text/javascript" src="js/Myriad_Pro_300.font.js"></script>
+<script type="text/javascript" src="js/Myriad_Pro_400.font.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<!--[if lt IE 7]>
+     <link rel="stylesheet" href="css/ie/ie6.css" type="text/css" media="screen">
+     <script type="text/javascript" src="js/ie_png.js"></script>
+     <script type="text/javascript">
+        ie_png.fix('.png, footer, header nav ul li a, .nav-bg, .list li img, .articles li img');
+     </script>
+<![endif]-->
+<!--[if lt IE 9]>
+  	<script type="text/javascript" src="js/html5.js"></script>
+  <![endif]-->
+<style type="text/css">
+<!--
+.style3 {color: #FFFFFF}
+.style4 {font-weight: bold}
+.style6 {color: #454545}
+.style7 {font-weight: bold}
+.style8 {font-weight: bold}
+.style13 {font-size: 12px}
+.style9 {
+	font-size: 12px;
+	font-weight: bold;
+}
+.style14 {font-size: 1em;
+	font-weight: bold;
+}
+-->
+</style>
+</head>
+<body id="page5">
+<div class="wrap">
+   <!-- header -->
+   <header>
+      <div class="container">
+         <h1><a href="index.html">Student's site</a></h1>
+         <nav>
+            <ul>
+               <li><a href="index.html" class="m1">Home Page</a></li>
+               <li><a href="about-us.html" class="m2">About Us</a></li>
+               <li><a href="services.html" class="m3">services</a></li>
+               <li class="current"><a href="products.html" class="m4">products</a></li>
+               <li class="last"><a href="contact us.html" class="m5">contact us</a></li>
+            </ul>
+         </nav>
+         <form action="" id="search-form">
+            <fieldset>
+            <div class="rowElem">
+               <input type="text">
+               <a href="#" onClick="document.getElementById('search-form').submit()">Search</a></div>
+            </fieldset>
+         </form>
+      </div>
+  </header>
+   <div class="container">
+      <!-- aside -->
+      <aside>
+        <h3>Categories</h3>
+        <ul class="categories">
+          <li><span><a href="interactiveBoards.html">Interactive Boards</a></span></li>
+          <li><span><a href="Touch Screens/Screens.html">Interactive Screens</a><a href="Magic Media.html"></a></span></li>
+          <li><span><a href="Touch Screens/Screens.html">Magic Media</a></span></li>
+          <li><span><a href="#">Magic Dispaly</a></span></li>
+          <li><span><a href="#">Virtual Mannequin</a></span></li>
+          <li><span><a href="#">Accessories</a></span></li>
+          <li><span><a href="#">Offers</a></span></li>
+          <li class="last"><span><a href="#">Events</a><a href="Careers.html"></a></span></li>
+          <li></li>
+          <li class="last"><span><a href="#">Rent</a><a href="Careers.html"></a></span></li>
+          <li></li>
+          <li class="last"><span><a href="Careers.html">Careers</a></span></li>
+          <li class="last"></li>
+          <li class="last"></li>
+        </ul>
+        <form action="" id="newsletter-form">
+          <fieldset class="style4">
+            <a href="http://www.youtube.com/user/LogicaTechChannel" target="new">Click Here to View Our Videos<br>
+              <br>
+              <a href="http://www.youtube.com/user/LogicaTechChannel" target="new"><img src="images/Tube.gif" alt="" width="119" height="83"></a><br>
+            LogicaTechChannel <br>
+          </fieldset>
+        </form>
+        <ul class="categories">
+          <li class="last"><span><a href="#">Resent News </a><a href="Careers.html"></a></span></li>
+          <li></li>
+          <li class="last"><span><a href="Careers.html">Resent Vedios</a></span></li>
+        </ul>
+        <p></p>
+        <h2>Fresh <span>News</span></h2>
+        <ul class="news">
+          <li><strong>March 24,2013</strong>
+            <h4><a href="#"><span class="style13">Next Move-City Scape</span></a> 2013</h4>
+            <p class="style13">Come see our extraordinary, eye catching Virtual Mannequin in Next Move City Scape 2013<br>
+              <br>
+            </p>
+            <strong>March 10,2013</strong>
+            <h4>Zaag-Tech Interactive Screens, Lead The Market </h4>
+            <span class="style13">Welcome to the New Generation of Large Format Touch. Using this Generation of Touch Screens, touch points reached 40 points!</span>imagine your applcation and we will make this dream come true.</li>
+          <li><strong>Feb  7, 2013</strong>
+            <h4><a href="#">Logica Tech Provides a range of projection films that can be applied to glass for a variety of display applications. </a></h4>
+            Now only with Logica Tech you can lead the market by unique advertising  tools. Now  we can turn your ad. to interactive and brand your message easily by Magic Display solutions. Creative technologies mean new ways to advertise   and entertain - open your mind to the possibilities.</li>
+        </ul>
+        <p>&nbsp;</p>
+      </aside>
+      <!-- content -->
+      <section id="content">
+        <div class="ic">More Website Templates at TemplateMonster.com!</div>
+        <div class="inside">
+          <h2>iNTERACTIVE <span>SCREENS</span></h2>
+          <div class="img-box"><span class="txt1">Logica Touch Screens </span>take advertising to a  new dimension. Our interactive display solutions will help you to  generate more business and draw more customers into your shop.<br>
+            <br>
+  Display your web site or your specials and  adverts on the Screen!&nbsp;Potential  customers in the street are attracted by the bright digital images. Vision  sells! Our interactive signage enables customers to obtain information on your  products just by touching the Screen - they can browse your entire catalogue of  products, It’s designed to increase your sales!</div>
+          <div class="img-box">
+            <p><img src="images/Screens.jpg"><strong>What Are the Advantages of Using Logica Touch screen Solutions?</strong><br>
+The  touch screen is one of the easiest PC interfaces to use, making it the  interface of choice for a wide variety of applications.<br>
+            Here are a few examples  of how touch input systems are being used today.</p>
+            <p><br>
+              <span class="style9">Benefits of your interactive Touch Screen advertising:</span><span class="style13"><br>
+              <br>
+            › Increase your profits&nbsp;by attracting customers to YOUR shop – driving       additional sales.<br>
+            <br>
+            › No need for expensive static       displays. Exciting and informative active       displays do attract attention immediately!<br>
+            <br>
+            › Improve your image.<br>
+            <br>
+            › Show your customers your&nbsp;entire product&nbsp;range on your Screen!<br>
+            <br>
+            › Promote your specials&nbsp;when the screen is not in use. Increase the opportunity       for customers to buy from you, not  
+            <br>
+            &nbsp;&nbsp;&nbsp;your competitors!<br>
+            <br>
+            › Update&nbsp;your service and product range and&nbsp;instantly&nbsp;display the changes.<br>
+            <br>
+            › Offer your advertising space as&nbsp;paid advertising&nbsp;to your business partners. This will pay back your       investment in no &nbsp;&nbsp;&nbsp;time and before you know it will&nbsp;provide you with an extra       income!<br>
+            <br>
+            › Remotely manage&nbsp;the content to be displayed and display the changes       network wide, reducing management costs.<br>
+            <br>
+            › The software&nbsp;supports existing multimedia formats, so no need for additional development.<br>
+            <br>
+            › Logica touch       screen interface can be beneficial to those that have difficulty using       other devices such as computers.<br>
+            <br>
+            › Customer       Self-Service. &nbsp;Self-service       touch screen terminals can be used to improve customer service at busy<br>       
+            &nbsp;&nbsp;&nbsp;stores, fast service restaurants, transportation hubs, and more.</span></p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p><strong>Applications for Touch Screens:</strong></p>
+            <p><span class="txt1">Tourism &amp; Hospitality </span><br>
+            With our touch screens you can offer your guests a comprehensive source of local information and of hotel services and facilities with a simple touch of the screen. While eliminating untidy leaflets</p>
+            <p>Your Touch Screen can be personalized and branded to your exact hotel requirements and gives a great first and lasting impression, while being seen by hotel guests as a great hotel service. </p>
+            <p>Your guests walk into hotel lobby and touch a screen to search for nearby restaurants, shops, businesses, and view local street maps. </p>
+            <p><span class="txt1">Productivity and collaboration </span><br>
+            Use touch to organize your desktop by easily moving files, folders, photos and other content graphically to better suit your work style. Resize and zoom in on PDF files, expand and rotate images, graphs and maps during presentations, and write notations with your finger in the margins of documents.</p>
+            <p><span class="txt1">Art and Design</span><br>
+            Create a photo album, design a scrapbook, paint a picture, or even use CAD software more intuitively to develop product designs.</p>
+            <p><span class="txt1">Home entertainment, education, and news </span><br>
+            Touch the screen in your kitchen while you’re making dinner to quickly display news, videos, weather, family schedules, and play music. Assist your school-age child in a social studies research project in a more entertaining and engaging manner through interactive maps and content or play an educational game with your preschooler.</p>
+            <p><span class="txt1">Medical</span><br>
+            Enable a physician or physical therapist to touch a screen during an exam to access a patient’s x-rays, lab results, share patient information, or demonstrate home treatment plans.</p>
+            <p>Offering high image clarity and exceptional precision, Logica’s highly specialized medical touch screens improve patient care and can be used in surgical displays, patient monitoring units. </p>
+            <p>Logica’s touch screens deliver unparalleled durability and quick response times, and are designed to work with gloved ﬁngers, scalpels and other pointing devices.</p>
+            <p><span class="txt1">Real Estate Agents </span><br>
+            You are no longer restricted by the size of your computer. Show your web site on the interactive advertising screen and potential customers just touch the screen to search for their dream house. They will see all the information available and look at all the different listings in a very limited area of your window. This leaves you with even more space for your static displays!</p>
+            <p>As you know, Real Estate business is very competitive, so maximise the visual impact on your customers and get paid for it! </p>
+            <p><span class="txt1">Travel Agents </span><br>
+              Travelers just love visuals and the latest bargains! Having inviting videos and your latest bargains displayed onto a touch screen will really attract the traveler. They just start dreaming.<br>
+              Our interactive Logica Touch Screen will achieve this. They can touch the beach and dream away. It’s just like being there! You’ll draw them in.</p>
+            <p>Maximize the money spent on TV adverts by displaying them on your shop front and attract your customers!</p>
+            <p><span class="txt1">Retail </span><br>
+              Maximise your revenue!<br>
+              Showcase your products and your specials. A moving image always attracts attention. With our interactive advertising you can take shopping to a new dimension! Complement your static display with the latest interactive technology. <br>
+            Or you can provide your suppliers with the opportunity to promote their own products on your screen. Advertising space and exposure means a lot. This will pay back your investment in no time and before you know it, will provide you an extra income!</p>
+            <p><span class="txt1">Venues </span><br>
+            Your venue becomes the star attraction! </p>
+            <p>You can promote your up and coming events 24 hours a day to the passing public. Show what’s going on inside your venue and promote special deals for the next activity. There’s no need for expensive static displays that do not have the same attraction as our advertising touch screens. Sell the advertising space to the sponsors and exhibitors and you’ll have a return on investment in no time!</p>
+            <p>Draw in the visitors!</p>
+            <p><span class="txt1">Exhibitions </span><br>
+              Attract people to YOUR stand!<br>
+              Our interactive Touch Screen solution will draw people onto your stand. They will be amazed by the high standard of technology that you apply. The interactive display allows them to browse the products you want to advertise. It is a 2-way communication. Now that you have their attention, you’ll know what they are looking for and the sale will be a breeze! By the time your visitor leaves the stand they will know what you have to offer, increasing the possibility of them buying from you and not your competitors. <br>
+              You can hire for a one-off exhibition or purchase the full system. With full ownership you can use it when you want and where you want.<br>
+            Draw the crowd to your stand - Generate more valuable sales leads</p>
+            <p><br>
+              <span class="txt1">Car dealers</span><br>
+              Attract more customers<br>
+            Stimulate the interest of potential customers by displaying your latest models. While waiting in the service department, they can visualize themselves driving their next dream car. Customers can browse through your catalogue by the touch of a finger.</p>
+            <p>Once you have the interest, you’re halfway there!</p>
+            <p><span class="txt1">Information Centers/ Public Access Points</span><br>
+            We all like the personal touch; however tourists do not always arrive in time for you to accommodate them - they might arrive when the centre is closed. Tourists could browse through all the information that you would like to give them in person. Your information centre could be an innovative one - available at the touch of a finger! Take advantage of our interactive touch screens! It offers a 24/7 service to the public! Tourists can search your data base of local accommodation, restaurants, points of interest, events….</p>
+            <p><br>
+              <span class="txt1">General</span><br>
+              Increase your profit!<br>
+              No matter what your business is about, you can only benefit from extra advertising space. Making it interactive - in a secure way - will only boost your revenue. No need for expensive static displays.<br>
+            You can even create extra revenue by offering the advertising space to your suppliers.</p>
+            <p>We can give you that extra edge over your competitors!<br>
+            </p>
+          </div>
+          <table width="654" border="1">
+            <tr>
+              <th width="48" scope="row">&nbsp;</th>
+              <td width="300">&nbsp;</td>
+              <td width="284"><a href="https://www.facebook.com/LogicaTechnologies?fref=ts" target="new"><img src="images/Facebook-icon (1).png" width="64" height="64"></a> <a href="https://twitter.com/Logica_Tech" target="new"><img src="images/Twitter-2-icon.png" width="64" height="64"></a> <a href="http://www.youtube.com/user/LogicaTechChannel" target="new"><img src="images/YouTube-icon (1).png" width="64" height="64"></a> <img src="images/Linkedin-icon (1).png" width="64" height="64"></td>
+            </tr>
+          </table>
+          <p class="p0">
+          </p>
+        </div>
+      </section>
+   </div>
+</div>
+<!-- footer -->
+<footer>
+   <div class="container">
+      <div class="inside">
+         <div class="wrapper">
+   <div class="fleft">Customer Service Number <span class="style1">+2 02 37612562</span></div>
+            <div class="aligncenter"><br>
+               © Copyright 2012 Logica i-Tech. All Rights Reserved.</div>
+         </div>
+      </div>
+   </div>
+</footer>
+<script type="text/javascript"> Cufon.now(); </script>
+</body>
+</html>
